@@ -284,6 +284,20 @@ export const doctors = [
     },
     {
         _id: 'doc15',
+        name: 'Dr. Andrew Thomas',
+        image: doc14,
+        speciality: 'Gastroenterologist',
+        degree: 'MBBS',
+        experience: '5 Years',
+        about: 'Dr. Andrew has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Andrew has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 45,
+        address: {
+            line1: '27th Cross, Richmond',
+            line2: 'Circle, Ring Road, London'
+        }
+    },
+    {
+        _id: 'doc16',
         name: 'Dr. Amelia Hill',
         image: doc15,
         speciality: 'Dermatologist',
